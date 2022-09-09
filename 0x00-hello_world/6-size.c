@@ -22,4 +22,3 @@ int main(void)
 	printf("Size of a char: %ld byte(s)\n", sizeof(f));
 	return (0);
 }
-	
